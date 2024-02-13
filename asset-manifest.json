@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PatpetEdu/patriktestsite/static/css/main.d44bbefb.css",
-    "main.js": "/PatpetEdu/patriktestsite/static/js/main.16cda6f4.js",
+    "main.js": "/PatpetEdu/patriktestsite/static/js/main.a67cc12a.js",
     "static/js/592.6be342ff.chunk.js": "/PatpetEdu/patriktestsite/static/js/592.6be342ff.chunk.js",
     "index.html": "/PatpetEdu/patriktestsite/index.html",
     "main.d44bbefb.css.map": "/PatpetEdu/patriktestsite/static/css/main.d44bbefb.css.map",
-    "main.16cda6f4.js.map": "/PatpetEdu/patriktestsite/static/js/main.16cda6f4.js.map",
+    "main.a67cc12a.js.map": "/PatpetEdu/patriktestsite/static/js/main.a67cc12a.js.map",
     "592.6be342ff.chunk.js.map": "/PatpetEdu/patriktestsite/static/js/592.6be342ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d44bbefb.css",
-    "static/js/main.16cda6f4.js"
+    "static/js/main.a67cc12a.js"
   ]
 }
